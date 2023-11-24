@@ -1,0 +1,8 @@
+.menu__link{
+    text-decoration: none;
+    color: black;
+}
+.menu__link:hover{
+    text-decoration: rgba(0, 125, 192, 1) underline 3px;
+
+}

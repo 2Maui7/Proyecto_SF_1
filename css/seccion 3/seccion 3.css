@@ -1,0 +1,16 @@
+.seccion__3{
+    text-align: center;
+    padding-top: 4rem;
+}
+.seccion__3 h2{
+    color: rgba(0, 54, 137, 1);
+}
+.seccion__3 p{
+    margin-left: 9rem ;
+    margin-right: 9rem ;
+    flex-wrap: wrap;
+    font-size: 21px;
+}
+.seccion__3 h3{
+    color: rgba(0, 125, 192, 1);
+}

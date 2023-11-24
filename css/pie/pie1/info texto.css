@@ -1,0 +1,5 @@
+.info__texto{
+    flex-wrap: wrap;
+    font-size: 15px;
+    color: rgba(0, 26, 255, 1);
+}
